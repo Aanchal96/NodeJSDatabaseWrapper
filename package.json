@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-database",
+  "version": "1.0.0",
+  "description": "All the required dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bansalaanchal96@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.1.4"
+  }
+}
